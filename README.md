@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @juanyuu11
-- 👀 I’m interested in volley
 - 🌱 I’m currently learning python gg
 - 📫 How to reach me: juanghi200208@gmail.com
 
